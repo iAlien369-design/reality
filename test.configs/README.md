@@ -36,3 +36,11 @@ https://raw.githubusercontent.com/hiddify/hiddify-app/refs/heads/main/test.confi
 
 ## Video
 [مشاهده فیلم آموزش See Guide Video](https://www.youtube.com/watch?v=Xv_7TDo80k4)
+
+## Phone Behaviour Troubleshooting / عیب‌یابی رفتار گوشی
+
+For guidance on common phone behaviour issues (connection drops, slow speeds, battery drain, unexpected app behaviour), see:
+
+برای راهنمایی در مورد مشکلات رایج رفتار گوشی (قطع اتصال، سرعت کم، مصرف باتری، رفتار غیرمنتظره برنامه) مراجعه کنید به:
+
+[phone_behaviour.md](./phone_behaviour.md)
