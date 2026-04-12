@@ -6,7 +6,7 @@ require (
 	github.com/cloudflare/circl v1.6.3
 	github.com/juju/ratelimit v1.0.2
 	github.com/pires/go-proxyproto v0.8.1
-	github.com/refraction-networking/utls v1.8.1
+	github.com/refraction-networking/utls v1.8.2
 	golang.org/x/crypto v0.43.0
 	golang.org/x/sys v0.37.0
 )
