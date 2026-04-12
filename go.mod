@@ -1,9 +1,9 @@
 module github.com/xtls/reality
 
-go 1.24
+go 1.24.0
 
 require (
-	github.com/cloudflare/circl v1.6.1
+	github.com/cloudflare/circl v1.6.3
 	github.com/juju/ratelimit v1.0.2
 	github.com/pires/go-proxyproto v0.8.1
 	github.com/refraction-networking/utls v1.8.1
